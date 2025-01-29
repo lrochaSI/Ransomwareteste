@@ -44,5 +44,7 @@ Para descriptografar o arquivo utilize o comando:
 python3 decrypter.py
 ```
 
+![Image](https://github.com/user-attachments/assets/a5c5850a-f619-4adc-9e82-6902e3a2ffb5)
+
 
 
