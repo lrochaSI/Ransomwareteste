@@ -36,4 +36,13 @@ python3 encrypter.py
 
 Verifique o arquivo gerado ".ransomwaretroll", este terá os dados criptografados.
 
+![Image](https://github.com/user-attachments/assets/d04ff6c9-4e71-41fe-9c6f-698d1506b8b5)
+
+Para descriptografar o arquivo utilize o comando:
+
+```bash
+python3 decrypter.py
+```
+
+
 
