@@ -1,0 +1,18 @@
+Nome: "InovaTech Solucoes em Tecnologia"
+
+CNPJ:17.654.173/0001-26
+Setor: Tecnologia da informacao
+
+Natureza do Negócio: Desenvolvimento de software e consultoria
+
+Faturas:
+
+Número da Fatura	Data de Emissão	Cliente	Valor Total	Data de Vencimento	Data de Pagamento	Forma de Pagamento
+FAT001	01/01/2023	Empresa Alfa	R$ 10.000,00	10/01/2023	05/01/2023	Boleto
+FAT002	15/01/2023	Empresa Beta	R$ 8.500,00	31/01/2023	28/01/2023	Cartão de Crédito
+
+Número do Pagamento	Data do Pagamento	Fornecedor	Valor	Descrição
+PAG001	03/01/2023	Empresa Gama	R$ 5.000,00	Compra de Equipamentos
+PAG002	18/01/2023	Companhia de Energia	R$ 1.200,00	Conta de Energia
+
+Total em caixa: R$26.450,00
