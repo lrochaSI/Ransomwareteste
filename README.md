@@ -6,7 +6,7 @@ Este repositório contém um **teste de ransomware** que foi desenvolvido com o 
 
 ## Descrição
 
-Este projeto simula o comportamento de um ransomware, criptografando arquivos em um diretório específico. Ele pode ser usado para entender como as técnicas de criptografia e ataques de ransomware funcionam em um nível básico, mas **não é uma implementação de um ransomware real**.
+Este projeto simula o comportamento de um ransomware, criptografando arquivos em um diretório específico. Ele pode ser usado para entender como as técnicas de criptografia e ataques de ransomware funcionam em um nível básico
 
 ### Funcionalidades
 
