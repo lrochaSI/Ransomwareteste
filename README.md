@@ -10,17 +10,15 @@ Este projeto simula o comportamento de um ransomware, criptografando arquivos em
 
 ### Funcionalidades
 
-- Criptografa arquivos com uma chave de criptografia simples (algoritmo simétrico).
+
 - Simula o comportamento de um ataque de ransomware sem causar danos reais, em um ambiente controlado.
 - Permite a reversão da criptografia utilizando uma chave de descriptografia.
 
-## Avisos
 
-- **NÃO execute este código em ambientes de produção.**
 
 ## Como Usar
 
-Clone o repositório ou baixe os arquivos em sua máquina
+Copie o repositório ou baixe os arquivos em sua máquina
 
 Instale a lib pyaes com o pip:
 
