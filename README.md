@@ -1,6 +1,6 @@
 # Teste de Ransomware para Criptografia de Arquivos
 
-Este repositório contém um **teste de ransomware** que foi desenvolvido com o objetivo de **demonstrar a criptografia de arquivos**. O código foi criado para fins **educacionais e de pesquisa** apenas, e NÃO deve ser utilizado de forma maliciosa ou em sistemas de produção.
+Este repositório contém um **teste de ransomware** que foi desenvolvido com o objetivo de **demonstrar a criptografia de arquivos**. O código foi criado para fins **educacionais e de pesquisa** apenas, e NÃO deve ser utilizado de forma maliciosa.
 
 ⚠️ **Aviso Importante:** O uso deste código em sistemas reais pode resultar na perda permanente de dados. Utilize somente em ambientes controlados, como máquinas virtuais, e sempre com backups adequados.
 
